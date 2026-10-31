@@ -1,1 +1,5 @@
-#
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="42" fill="#1b5e20"/>
+  <rect x="18" y="18" width="156" height="156" rx="32" fill="#43a047"/>
+  <text x="96" y="122" text-anchor="middle" font-size="92" font-family="system-ui,Arial" font-weight="700" fill="#fff">9</text>
+</svg>
